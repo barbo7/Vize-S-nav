@@ -1,0 +1,10 @@
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Debug\VizeSinavi.csprojAssemblyReference.cache
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Debug\VizeSinavi.Form1.resources
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Debug\VizeSinavi.Properties.Resources.resources
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Debug\VizeSinavi.csproj.GenerateResource.cache
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Debug\VizeSinavi.csproj.CoreCompileInputs.cache
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\bin\Debug\VizeSinavi.exe.config
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\bin\Debug\VizeSinavi.exe
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\bin\Debug\VizeSinavi.pdb
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Debug\VizeSinavi.exe
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Debug\VizeSinavi.pdb

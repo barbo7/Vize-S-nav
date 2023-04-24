@@ -1,0 +1,11 @@
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\bin\Release\VizeSinavi.exe.config
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\bin\Release\VizeSinavi.exe
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\bin\Release\VizeSinavi.pdb
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Release\VizeSinavi.csproj.AssemblyReference.cache
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Release\VizeSinavi.csproj.SuggestedBindingRedirects.cache
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Release\VizeSinavi.Form1.resources
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Release\VizeSinavi.Properties.Resources.resources
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Release\VizeSinavi.csproj.GenerateResource.cache
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Release\VizeSinavi.csproj.CoreCompileInputs.cache
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Release\VizeSinavi.exe
+C:\Users\as\source\repos\VizeSinavi\VizeSinavi\obj\Release\VizeSinavi.pdb
